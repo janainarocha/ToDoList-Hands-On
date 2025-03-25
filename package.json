@@ -1,0 +1,14 @@
+{
+  "name": "hands-on",
+  "version": "1.0.0",
+  "main": "todoList.spec.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.10"
+  }
+}
